@@ -16,3 +16,11 @@ Este repositorio documenta el proceso de aprendizaje del curso, incluyendo scrip
 - Clasificación de variables cualitativas y cuantitativas  
 - Script: `Lab_01_Calculadora.R`  
 - Evidencia PDF: `Lab_01_FSR_1314498.pdf`
+
+### Semana 2 – Laboratorio 2  
+- Contraste de medias entre Iris versicolor e Iris virginica  
+- Prueba t de Welch y cálculo del tamaño del efecto (Cohen's d)  
+- Interpretación estadística y biológica  
+- Gráfico comparativo tipo boxplot  
+- Script: 'Lab_02_ContrasteMedias.R'  
+- Evidencia: 'Lab2_FSR_1314498.pdf'
