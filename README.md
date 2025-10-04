@@ -24,3 +24,18 @@ Este repositorio documenta el proceso de aprendizaje del curso, incluyendo scrip
 - Gráfico comparativo tipo boxplot  
 - Script: 'Lab_02_ContrasteMedias.R'  
 - Evidencia: 'Lab2_FSR_1314498.pdf'
+
+---
+
+## Producto Integrador del Aprendizaje (PIA)
+
+Este repositorio documenta el proceso completo del curso **Experimentación y Métodos Estadísticos**, impartido por el Dr. Marco A. González Tagle en la Maestría en Ciencias Forestales (UANL). A lo largo de tres laboratorios y tareas técnicas, se aplicaron herramientas estadísticas en R para resolver problemas reales con enfoque ambiental.
+
+El repositorio incluye:
+
+- Scripts reproducibles en R para cada laboratorio  
+- Evidencias en PDF con interpretación técnica y ambiental  
+- Narrativa cronológica en este README.md  
+- Historial de commits que reflejan el avance progresivo
+
+La gráfica de contribuciones (Insights > Contributors) evidencia la participación activa y el uso disciplinado de GitHub como herramienta científica. Este portafolio digital cumple con los criterios de evaluación establecidos y está disponible públicamente para revisión académica y profesional.
